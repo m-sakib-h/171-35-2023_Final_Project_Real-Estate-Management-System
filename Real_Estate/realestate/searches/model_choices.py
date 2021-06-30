@@ -2,11 +2,12 @@
 #List is a collection which is ordered and changeable. Allows duplicate members.
 
 state_choice = {
-    'Rangpur': 'Rangpur',
+    'Rajshahi': 'Rajshahi',
     'Chittagong': 'Chittagong',
     'Dhaka': 'Dhaka',
-    'Lakshmipur': 'Lakshmipur',
-    'Mohammod pur': 'Mohammod pur',
+    'Khulna': 'Khulna',
+    'Barishal': 'Barishal',
+    'Sylhet': 'Sylhet',
 }
 Bedrooms_choice = {
     '1': '1',
